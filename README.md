@@ -1,3 +1,2 @@
-Current needa work on this project
-
-![Current front end](CurrentImage.png)
+Website Needs Work
+![Cat pic](CurrentImage.png)
